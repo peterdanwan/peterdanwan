@@ -48,8 +48,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Creating a Simple Game Engine using C++ and SFML](https://www.youtube.com/watch?v=dNskJAl5dBw)
-- [Practicing AI Search Algorithms](https://www.youtube.com/watch?v=43Eznupydng)
+- [Creating a Simple Game Engine using C++ and SFML](https://youtu.be/M2Y1AxWBp-0)
+- [Practicing AI Search Algorithms](https://youtu.be/VcM4sv-wxVU)
 <!-- YOUTUBE:END -->
 
 ➡️ [Videos coming soon...](https://youtube.com/@peterwan1808/featured)
