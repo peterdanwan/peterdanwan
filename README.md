@@ -32,9 +32,6 @@
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
 </p>
 
-<br />
-<br />
-
 ### Connect with me:
 
 &nbsp;&nbsp;
