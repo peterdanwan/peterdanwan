@@ -32,6 +32,8 @@
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
 </p>
 
+</br>
+
 ### Connect with me:
 
 &nbsp;&nbsp;
@@ -41,11 +43,11 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/peter.magic1#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/peter.magic1#gh-dark-mode-only)
 
----
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos 📺: 
 
 <!-- YOUTUBE:START -->
+- [Hosting my first microservice using AWS](https://youtu.be/sz8h1m44AJQ?si=G8CIYCxwBm9-V1Cr)
 - [Creating a Simple Game Engine using C++ and SFML](https://youtu.be/M2Y1AxWBp-0)
 - [Practicing AI Search Algorithms](https://youtu.be/VcM4sv-wxVU)
 <!-- YOUTUBE:END -->
