@@ -4,8 +4,8 @@
 
 - 💻 I’m currently learning about `Artificial Intelligence in Games` 🤖👾
 - 👯 I’m looking to collaborate with others interested in Game Development
-- 🥅 2024 Goals: Learn more about cross-platform development with C++
-- ⚡ Fun fact: this page is written in markdown 😎
+- 🥅 2024 Goals: Learn more about cross-platform development with C++, and maybe how to center a div 😉
+- ⚡ Secret hack: try pressing `.` on any repo. You'll feel like you have superpowers! 😎
 
 
 ### Languages and Tools:
