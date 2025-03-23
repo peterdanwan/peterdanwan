@@ -1,12 +1,10 @@
 # Hello! I'm Peter 👋
 
-## I'm a Student, Gamer, and Programmer!
+## I'm a Systems Developer, Gamer, and Programmer!
 
-- 💻 I’m currently learning about `Artificial Intelligence in Games` 🤖👾
-- 👯 I’m looking to collaborate with others interested in Game Development
-- 🥅 2024 Goals: Learn more about cross-platform development with C++, and maybe how to center a div 😉
-- ⚡ Secret hack: try pressing `.` on the root page of any repo (e.g., <https://github.com/peterdanwan/gimme_readme>). You'll feel like you have superpowers! 😎
-
+-  💻 What I'm currently working on: I'm constantly learning about `Web Development` 🕸️
+-  🥅 2025 Goals: _Master_ `Vim Motions` and _create_ an awesome `Neovim Configuration`
+-  ⚡ Fun fact: this page is written in markdown 😎
 
 ### Languages and Tools:
 
@@ -63,4 +61,3 @@
   <img align="left" alt="peterdanwan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterdanwan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
